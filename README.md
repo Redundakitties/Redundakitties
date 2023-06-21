@@ -1,5 +1,5 @@
 # <p align="center">Redundakitties</p>
-* 😄 | **GracefulLion** (`she/her`)
+* 😄 | **eclecticfeline** (`she/her`)
 * 💻  | 🐍 Python, 🌸 CSS, ☕ Java
 
 <br />
