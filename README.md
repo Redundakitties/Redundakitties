@@ -9,4 +9,4 @@
 * 🥬 [Couve Tweaks](https://github.com/Redundakitties/quickCSS-snippets) | All of my vencord quick css snippets in one place. Link to original [Couve](https://github.com/NYRI4/Couve)
 
 ### Forks
-* 🌺 [Vencord](https://github.com/Vendicated/Vencord) | Contributed to the Discord client [Vencord](https://vencord.dev/) by Vendicated
+* 🌺 [Vencord](https://github.com/Vendicated/Vencord) | Contributed to the cutest Discord client mod [Vencord](https://vencord.dev/) by Vendicated
