@@ -6,7 +6,7 @@
 
 ### Personal Projects
 * 🍒 [sidebery tweaks](https://github.com/Redundakitties/colorful-minimalist) | Adds auto-hiding and brings colors to your tabs on hover to the [sidebery project](https://github.com/mbnuqw/sidebery/releases)
-* 🥬 [Couve Tweaks](https://github.com/Redundakitties/quickCSS-snippets) | All of my vencord quick css snippets in one place. Link to original [Couve](https://github.com/NYRI4/Couve). 
+* 🥬 [Couve Tweaks](https://github.com/Redundakitties/quickCSS-snippets) | All of my vencord quick css snippets in one place. Link to original [Couve](https://github.com/NYRI4/Couve)
 
 ### Forks
 * 🌺 [Vencord](https://github.com/Vendicated/Vencord) | Contributed to the Discord client [Vencord](https://vencord.dev/) by Vendicated
